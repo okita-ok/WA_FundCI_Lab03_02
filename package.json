@@ -1,12 +1,11 @@
 {
-    "name": "webacademy",
-    "version": "1.0.0",
-    "description": "Continious Deployment with Github Actions, DockerHub",
-    "scripts": {
-      "start": "node app.js"
-    },
-    "dependencies": {
-      "express": "^4.17.1"
-    }
+  "name": "webacademy2",
+  "version": "1.0.0",
+  "description": "Continious Deployment with Github Actions, DockerHub",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
   }
-  
+}
